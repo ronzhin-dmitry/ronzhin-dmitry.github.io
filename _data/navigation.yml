@@ -1,22 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
   - title: "Blog Posts"
     url: https://ronzhin.hashnode.dev/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: https:/www.linkedin.com/in/dmitry-ronzhin-62054412a/
+
+  - title: "Publications"
+    url: https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ
     
   #- title: "Guide"
   #  url: /markdown/
