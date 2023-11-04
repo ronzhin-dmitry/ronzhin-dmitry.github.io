@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome! My name is Dmitry, I am a mathematician, I specialize in discrete math and recieved my [PhD](https://istina.msu.ru/dissertations/425291875/) in 2022. I live in Moscow, teach in Moscow State University on the [Intelligent Systems chair](http://intsys.msu.ru/staff/ronzhin/) of the [faculty of mathematics and mechanics](https://math.msu.ru/) and also work as a CS researcher and engineer. Scope of my scientific interests includes, but not limited to discrete math, error correction coding, algorithms complexity and machine learning. 
+Hello and welcome! My name is Dmitry, I am a mathematician, I specialize in discrete math and received my [PhD](https://istina.msu.ru/dissertations/425291875/) in 2022. I live in Moscow, teach in Moscow State University on the [Intelligent Systems chair](http://intsys.msu.ru/staff/ronzhin/) of the [faculty of mathematics and mechanics](https://math.msu.ru/) and also work as a CS researcher and engineer. Scope of my scientific interests includes, but not limited to discrete math, error correction coding, algorithms complexity and machine learning. 
 
 ---
 
@@ -18,7 +18,7 @@ I am participating in several courses in Moscow State University and its branche
 
 ---
 
-With the help of my friend and students and also by myself I sometimes write [blog posts](https://ronzhin.hashnode.dev/) about algorithms and data structures.
+With the help of my friends and students and also by myself I sometimes write [blog posts](https://ronzhin.hashnode.dev/) about algorithms and data structures.
 
 ---
 
