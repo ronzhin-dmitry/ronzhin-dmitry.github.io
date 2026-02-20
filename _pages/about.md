@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm Dmitry Ronzhin, a passionate mathematician and researcher specializing in discrete mathematics. I earned my PhD in 2022, focusing on advanced topics in combinatorics and theoretical computer science. Currently based in Moscow, I serve as a Research Assistant at the Faculty of Mathematics and Mechanics of Lomonosov Moscow State University, where I also contribute to teaching and academic development.
+Welcome to my personal website! I'm Dmitry Ronzhin, a passionate mathematician and researcher specializing in discrete mathematics. I earned my PhD in 2022, focusing on advanced topics in combinatorics and theoretical computer science. Currently based in Moscow, I serve as a Research Assistant at the Faculty of Mathematics and Mechanics of Moscow State University, where I also contribute to teaching and academic development.
 
 ---
 
