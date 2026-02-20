@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dmitry Ronzhin - Homepage"
+title: "Dmitry Ronzhin - Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome! My name is Dmitry, I am a mathematician, I specialize in discrete math and received my [PhD](https://istina.msu.ru/dissertations/425291875/) in 2022. I live in Moscow, teach in Moscow State University on the [Intelligent Systems chair](http://intsys.msu.ru/staff/ronzhin/) of the [faculty of mathematics and mechanics](https://math.msu.ru/) and also work as a CS researcher and engineer. Scope of my scientific interests includes, but not limited to discrete math, error correction coding, algorithms complexity and machine learning. 
+Welcome to my personal website! I'm Dmitry Ronzhin, a passionate mathematician and researcher specializing in discrete mathematics. I earned my PhD in 2022, focusing on advanced topics in combinatorics and theoretical computer science. Currently based in Moscow, I serve as a Research Assistant at the Faculty of Mathematics and Mechanics of Lomonosov Moscow State University, where I also contribute to teaching and academic development.
 
 ---
 
-I am participating in several courses in Moscow State University and its branches:
-* With [prof. Chasovskikh A.A.](http://intsys.msu.ru/staff/chasovskikh/) and [Polovnikov V.S.](http://intsys.msu.ru/staff/polovnikov/) teaching "Graph Theory and VLSI applications" course and arranging a "Neural Networks" seminar;
-* With [prof. Alekseev D.V.](http://intsys.msu.ru/staff/alexeev/) and [prof. Aliseychik P.A.](http://intsys.msu.ru/staff/aliseychik/) teaching "Programming practice" in MSU Tashkent branch;
+My academic and professional journey spans both theoretical research and practical applications in computer science. I am actively involved in several educational initiatives at Moscow State University:
+
+* Co-teaching the "Graph Theory and VLSI Applications" course alongside [Prof. Chasovskikh A.A.](http://intsys.msu.ru/staff/chasovskikh/) and [Polovnikov V.S.](http://intsys.msu.ru/staff/polovnikov/), while also organizing an advanced seminar on "Neural Networks";
+* Contributing to the "Programming Practice" curriculum at the MSU Tashkent branch in collaboration with [Prof. Alekseev D.V.](http://intsys.msu.ru/staff/alexeev/) and [Prof. Aliseychik P.A.](http://intsys.msu.ru/staff/aliseychik/).
 
 ---
 
-With the help of my friends and students and also by myself I sometimes write [blog posts](https://ronzhin.hashnode.dev/) about algorithms and data structures.
+Beyond academia, I engage in knowledge sharing through technical writing. Together with colleagues, students, and independently, I author articles on [Hashnode](https://ronzhin.hashnode.dev/) exploring intricate algorithms, data structures, and their real-world applications.
 
 ---
 
-Feel free to contact me if you have any questions or proposals about teaching process and courses or if you would like to cooperate on scientific work and/or publications.
+I'm always open to new opportunities for collaboration, whether in teaching innovation, joint research projects, or scientific publications. Please feel free to reach out if you have ideas for cooperation or would like to discuss potential academic partnerships.

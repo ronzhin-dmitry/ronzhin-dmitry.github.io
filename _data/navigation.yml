@@ -10,11 +10,11 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: https://ronzhin.hashnode.dev/
     
- # - title: "CV"
- #   url: https:/www.linkedin.com/in/dmitry-ronzhin-62054412a/
+  - title: "CV"
+    url: https://www.linkedin.com/in/dmitry-ronzhin-62054412a/
 
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ

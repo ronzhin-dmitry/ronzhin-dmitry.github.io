@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dmitry Ronzhin - Homepage"
+title                    : "Dmitry Ronzhin - Personal Website"
 title_separator          : "-"
 name                     : &name "Dmitry Ronzhin"
-description              : &description "personal description"
+description              : &description "PhD in Discrete Mathematics | Researcher | Educator"
 url                      : https://ronzhin-dmitry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ronzhin-dmitry/ronzhin-dmitry.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dmitry Ronzhin"
   avatar           : "profile.jpg"
-  bio              : "PhD in discrete math, research assistant, CS engineer"
+  bio              : "PhD in Discrete Mathematics | Research Assistant | CS Engineer"
   location         : "Moscow, Russia"
-  employer         : "Moscow State University"
+  employer         : "Lomonosov Moscow State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ"
   email            : "ronzhindv@my.msu.ru"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Moscow # Changed from America/Los_Angeles to Europe/Moscow
 
 
 # Plugins
