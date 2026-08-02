@@ -2,7 +2,7 @@ en:
   main:
 
     - title: "Talks"
-      url: /talks/
+      url: /en/talks/
     - title: "Research"
       url: /en/research/
     - title: "Publications"
@@ -27,7 +27,7 @@ en:
 ru:
   main:
     - title: "Доклады"
-      url: /talks/
+      url: /ru/talks/
     - title: "Исследования"
       url: /ru/research/
     - title: "Публикации"

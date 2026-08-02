@@ -15,7 +15,7 @@ author_profile: false
       <h1 class="home__title">Дмитрий Ронжин</h1>
       <p class="home__lead">Кандидат физико-математических наук, исследователь и преподаватель механико-математического факультета Московского государственного университета имени М. В. Ломоносова.</p>
       <div class="home__actions">
-        <a class="home__button" href="/talks/">Доклады</a>
+        <a class="home__button" href="/ru/talks/">Доклады</a>
         <a class="home__button home__button--secondary" href="https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ">Google Scholar</a>
         <a class="home__button home__button--secondary" href="mailto:ronzhindv@my.msu.ru">Связаться</a>
       </div>
@@ -80,13 +80,13 @@ author_profile: false
         <p class="home__eyebrow">Май 2023 · МГУ</p>
         <h3>Approximate Nearest Neighbors Search in Multidimensional Space</h3>
         <p>Подходы к поиску по сходству в больших массивах данных, методы индексирования и практические примеры на базе FAISS.</p>
-        <p><a href="/talks/2023-05-05-talk">Доклад и слайды →</a></p>
+        <p><a href="/ru/talks/approximate-nearest-neighbors/">Доклад и слайды →</a></p>
       </article>
       <article class="home__card">
         <p class="home__eyebrow">Октябрь 2023 · МГУ</p>
         <h3>Neural Networks Assisted Error Correction Coding</h3>
         <p>Введение в коды коррекции ошибок и методы машинного обучения для оптимизации LDPC-кодов.</p>
-        <p><a href="/talks/2023-10-27-talk">Доклад и слайды →</a></p>
+        <p><a href="/ru/talks/neural-ecc/">Доклад и слайды →</a></p>
       </article>
     </div>
   </div>

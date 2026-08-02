@@ -18,7 +18,7 @@ redirect_from:
       <h1 class="home__title">Dmitry Ronzhin</h1>
       <p class="home__lead">Candidate of Physical and Mathematical Sciences, researcher and educator at the Faculty of Mechanics and Mathematics, Lomonosov Moscow State University.</p>
       <div class="home__actions">
-        <a class="home__button" href="/talks/">Explore talks</a>
+        <a class="home__button" href="/en/talks/">Explore talks</a>
         <a class="home__button home__button--secondary" href="https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ">Google Scholar</a>
         <a class="home__button home__button--secondary" href="mailto:ronzhindv@my.msu.ru">Get in touch</a>
       </div>
@@ -83,13 +83,13 @@ redirect_from:
         <p class="home__eyebrow">May 2023 · MSU</p>
         <h3>Approximate Nearest Neighbors Search in Multidimensional Space</h3>
         <p>Approaches to large-scale similarity search, indexing techniques and practical examples based on FAISS.</p>
-        <p><a href="/talks/2023-05-05-talk">View talk and slides →</a></p>
+        <p><a href="/en/talks/approximate-nearest-neighbors/">View talk and slides →</a></p>
       </article>
       <article class="home__card">
         <p class="home__eyebrow">October 2023 · MSU</p>
         <h3>Neural Networks Assisted Error Correction Coding</h3>
         <p>An introduction to error-correcting codes and machine-learning-based optimization techniques for LDPC codes.</p>
-        <p><a href="/talks/2023-10-27-talk">View talk and slides →</a></p>
+        <p><a href="/en/talks/neural-ecc/">View talk and slides →</a></p>
       </article>
     </div>
   </div>
