@@ -2,6 +2,11 @@
 
 url: http://localhost:4000
 
+# Avoid GitHub API lookups during local, offline builds.
+github:
+  url: http://localhost:4000
+  baseurl: ""
+
 analytics:
   provider: false
 

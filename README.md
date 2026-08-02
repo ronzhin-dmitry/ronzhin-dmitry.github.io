@@ -18,6 +18,20 @@ See more info at https://academicpages.github.io/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
+### macOS (recommended)
+
+The project pins its Ruby version in `.ruby-version`. With Homebrew and rbenv installed, set up and run it with:
+
+```bash
+rbenv install -s
+rbenv exec bundle install
+./bin/serve
+```
+
+Open <http://127.0.0.1:4000>. The browser reloads automatically when site files change. Stop the server with `Ctrl+C`.
+
+### Legacy instructions
+
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
