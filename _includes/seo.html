@@ -17,6 +17,10 @@
 <title>{{ seo_title }}{% if paginator and paginator.page != 1 %} {{ site.title_separator }} Page {{ paginator.page }}{% endif %}</title>
 <meta name="description" content="{{ seo_description }}">
 <link rel="canonical" href="{{ canonical_url }}">
+{% if page.translation_url %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ canonical_url }}">
+  <link rel="alternate" hreflang="{% if page.lang == 'en' %}ru{% else %}en{% endif %}" href="{{ page.translation_url | prepend: seo_url }}">
+{% endif %}
 
 <meta property="og:locale" content="{{ site.locale | replace: '-', '_' }}">
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">

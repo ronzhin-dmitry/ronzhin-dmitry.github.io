@@ -1,6 +1,8 @@
 ---
 layout: home
-permalink: /
+permalink: /en/
+lang: en
+translation_url: /ru/
 title: "Dmitry Ronzhin"
 excerpt: "Researcher in discrete mathematics and theoretical computer science at Lomonosov Moscow State University."
 author_profile: false

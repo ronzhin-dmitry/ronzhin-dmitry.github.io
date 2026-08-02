@@ -54,3 +54,13 @@
     font-weight: 700;
   }
 }
+
+.masthead__language a {
+  margin-left: 0.6rem;
+  padding-left: 0.7rem;
+  border-left: 1px solid $border-color;
+  color: #176b9d;
+  font-size: 0.82em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}

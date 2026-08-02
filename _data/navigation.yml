@@ -1,8 +1,8 @@
-# main links links
-main:
+en:
+  main:
 
-  - title: "Talks"
-    url: /talks/    
+    - title: "Talks"
+      url: /talks/
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -10,14 +10,25 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog"
-    url: https://ronzhin.hashnode.dev/
+    - title: "Blog"
+      url: https://ronzhin.hashnode.dev/
     
-  - title: "CV"
-    url: https://www.linkedin.com/in/dmitry-ronzhin-62054412a/
+    - title: "CV"
+      url: https://www.linkedin.com/in/dmitry-ronzhin-62054412a/
 
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ
+    - title: "Publications"
+      url: https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ
+
+ru:
+  main:
+    - title: "Доклады"
+      url: /talks/
+    - title: "Блог"
+      url: https://ronzhin.hashnode.dev/
+    - title: "CV"
+      url: https://www.linkedin.com/in/dmitry-ronzhin-62054412a/
+    - title: "Публикации"
+      url: https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ
     
   #- title: "Guide"
   #  url: /markdown/
