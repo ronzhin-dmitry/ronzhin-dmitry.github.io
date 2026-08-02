@@ -58,7 +58,8 @@ redirect_from:
       <article class="home__feature">
         <h3>Doctoral research</h3>
         <p>My 2022 dissertation, “Linear automata over subrings of rational numbers,” explores completeness questions in classes of linear automata.</p>
-        <a href="https://istina.cemi-ras.ru/dissertation_councils/councils/79486209/">Dissertation record →</a>
+        <a href="https://istina.cemi-ras.ru/dissertation_councils/councils/79486209/">Dissertation record →</a><br>
+        <a href="https://istina.msu.ru/workers/7935196/">ISTINA academic profile →</a>
       </article>
       <article class="home__feature">
         <h3>Teaching</h3>

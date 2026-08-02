@@ -70,6 +70,7 @@ social:
   name                   : "Dmitry Ronzhin"
   links:
     - "http://intsys.msu.ru/staff/ronzhin/"
+    - "https://istina.msu.ru/workers/7935196/"
     - "https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ"
     - "https://github.com/ronzhin-dmitry"
     - "https://www.linkedin.com/in/dmitry-ronzhin-62054412a/"
@@ -91,6 +92,7 @@ author:
   employer         : "Lomonosov MSU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ"
+  istina           : "https://istina.msu.ru/workers/7935196/"
   email            : "ronzhindv@my.msu.ru"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "http://intsys.msu.ru/staff/ronzhin/"
