@@ -11,4 +11,8 @@ This page highlights selected work. For the most complete and current publicatio
 
 ## Selected publications
 
-**D. V. Ronzhin.** [On conditions of A-completeness for linear automata over dyadic rationals](https://doi.org/10.4213/dm1588). *Discrete Mathematics and Applications*, 2020, 32(2), 44–60. DOI: [10.4213/dm1588](https://doi.org/10.4213/dm1588).
+<article class="publication-card">
+  <p class="publication-card__title">On conditions of A-completeness for linear automata over dyadic rationals</p>
+  <p><strong>D. V. Ronzhin.</strong> <em>Discrete Mathematics and Applications</em>, 2020, 32(2), 44–60.</p>
+  <a class="academic-button" href="https://doi.org/10.4213/dm1588">DOI: 10.4213/dm1588</a>
+</article>

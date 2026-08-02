@@ -1,0 +1,194 @@
+/* ==========================================================================
+   ACADEMIC CONTENT PAGES
+   ========================================================================== */
+
+html[lang="ru"] .home__title {
+  font-size: clamp(2.3rem, 5.4vw, 4.25rem);
+  white-space: nowrap;
+}
+
+#main:not(.home) {
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+}
+
+.page {
+  .page__inner-wrap {
+    padding: 2.25rem;
+    border: 1px solid #dfe7ef;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 12px 34px rgba(30, 62, 91, 0.06);
+  }
+
+  .page__title {
+    margin-bottom: 1.25rem;
+    color: #173f67;
+    font-family: $serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    line-height: 1.08;
+  }
+}
+
+.page__content {
+  color: #40566d;
+  font-size: 1.04rem;
+  line-height: 1.75;
+
+  h2 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 1px solid #dfe7ef;
+    color: #173f67;
+    font-family: $serif;
+    font-size: 1.7rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  h3 {
+    margin-top: 1.7rem;
+    margin-bottom: 0.7rem;
+    color: #173f67;
+    font-family: $serif;
+    font-size: 1.26rem;
+    font-weight: 600;
+  }
+
+  a {
+    color: #176b9d;
+    font-weight: 600;
+    text-decoration-color: rgba(23, 107, 157, 0.35);
+    text-underline-offset: 0.16em;
+  }
+
+  ul {
+    margin-left: 0;
+    padding-left: 1.2rem;
+
+    li {
+      margin-bottom: 0.75rem;
+    }
+  }
+}
+
+.sidebar {
+  .author__avatar img {
+    padding: 4px;
+    border-color: #dfe7ef;
+  }
+
+  .author__bio {
+    color: #526579;
+  }
+}
+
+.archive {
+  padding: 2.25rem;
+  border: 1px solid #dfe7ef;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 12px 34px rgba(30, 62, 91, 0.06);
+
+  > .page__title {
+    margin-top: 0;
+    color: #173f67;
+    font-family: $serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 600;
+    letter-spacing: -0.03em;
+  }
+
+  .list__item {
+    margin-top: 1.4rem;
+    padding-top: 1.3rem;
+    border-top: 1px solid #e5ebf0;
+  }
+
+  .archive__item-title {
+    font-family: $serif;
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+}
+
+.page__content object[type="application/pdf"] {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: min(72vh, 720px);
+  margin: 1.5rem 0;
+  border: 1px solid #dfe7ef;
+  border-radius: 8px;
+}
+
+.publication-card {
+  margin: 1.35rem 0;
+  padding: 1.5rem;
+  border: 1px solid #dfe7ef;
+  border-radius: 10px;
+  background: #f9fbfc;
+
+  p {
+    margin: 0 0 1rem;
+  }
+}
+
+.publication-card__title {
+  color: #173f67;
+  font-family: $serif;
+  font-size: 1.28rem;
+  font-weight: 600;
+}
+
+.academic-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  margin-right: 0.45rem;
+  padding: 0.45rem 0.78rem;
+  border: 1px solid #b7cad8;
+  border-radius: 5px;
+  background: #fff;
+  color: #173f67 !important;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none !important;
+
+  &:hover {
+    border-color: #173f67;
+    background: #173f67;
+    color: #fff !important;
+  }
+}
+
+@media (max-width: 600px) {
+  html[lang="ru"] .home__title {
+    white-space: normal;
+  }
+
+  #main:not(.home) {
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .page .page__inner-wrap {
+    padding: 1.4rem;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .archive {
+    padding: 1.4rem;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .page__content object[type="application/pdf"] {
+    height: 62vh;
+  }
+}
