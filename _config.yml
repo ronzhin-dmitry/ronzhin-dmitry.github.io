@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dmitry Ronzhin - Personal Website"
+title                    : "Dmitry Ronzhin"
 title_separator          : "-"
 name                     : &name "Dmitry Ronzhin"
-description              : &description "PhD in Discrete Mathematics | Researcher | Educator"
+description              : &description "Researcher in discrete mathematics, automata theory and theoretical computer science at Lomonosov Moscow State University."
 url                      : https://ronzhin-dmitry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ronzhin-dmitry/ronzhin-dmitry.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -62,18 +62,22 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Dmitry Ronzhin"
+  links:
+    - "http://intsys.msu.ru/staff/ronzhin/"
+    - "https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ"
+    - "https://github.com/ronzhin-dmitry"
+    - "https://www.linkedin.com/in/dmitry-ronzhin-62054412a/"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false
   google:
     tracking_id          :
 
@@ -89,7 +93,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ycPC0fEAAAAJ"
   email            : "ronzhindv@my.msu.ru"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://intsys.msu.ru/staff/ronzhin/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -142,8 +146,12 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
