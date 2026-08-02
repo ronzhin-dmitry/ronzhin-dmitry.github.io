@@ -7,6 +7,14 @@ description: "Talks and seminar presentations by Dmitry Ronzhin."
 author_profile: true
 ---
 
+## 2025
+
+### Improving the Error-Correction Capability of Multilayer Coding Schemes
+
+Neural Networks Seminar, Moscow State University, 7 March 2025. Joint talk with Dmitry V. Alekseev on improving the error-correction capability of coding schemes through additional redundancy and iterative decoding.
+
+[Read abstract →](/en/talks/multilayer-ecc-performance-improvement/)
+
 ## 2023
 
 ### Approximate Nearest Neighbors Search in Multidimensional Space

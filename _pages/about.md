@@ -80,10 +80,10 @@ redirect_from:
     </div>
     <div class="home__split">
       <article class="home__card">
-        <p class="home__eyebrow">May 2023 · MSU</p>
-        <h3>Approximate Nearest Neighbors Search in Multidimensional Space</h3>
-        <p>Approaches to large-scale similarity search, indexing techniques and practical examples based on FAISS.</p>
-        <p><a href="/en/talks/approximate-nearest-neighbors/">View talk and slides →</a></p>
+        <p class="home__eyebrow">7 March 2025 · MSU</p>
+        <h3>Improving the Error-Correction Capability of Multilayer Coding Schemes</h3>
+        <p>A joint talk with Dmitry V. Alekseev on additional redundancy and iterative decoding with error localisation.</p>
+        <p><a href="/en/talks/multilayer-ecc-performance-improvement/">Read abstract →</a></p>
       </article>
       <article class="home__card">
         <p class="home__eyebrow">October 2023 · MSU</p>

@@ -77,10 +77,10 @@ author_profile: false
     </div>
     <div class="home__split">
       <article class="home__card">
-        <p class="home__eyebrow">Май 2023 · МГУ</p>
-        <h3>Approximate Nearest Neighbors Search in Multidimensional Space</h3>
-        <p>Подходы к поиску по сходству в больших массивах данных, методы индексирования и практические примеры на базе FAISS.</p>
-        <p><a href="/ru/talks/approximate-nearest-neighbors/">Доклад и слайды →</a></p>
+        <p class="home__eyebrow">7 марта 2025 · МГУ</p>
+        <h3>Улучшение корректирующей способности многоуровневых кодовых схем</h3>
+        <p>Совместный доклад с Д. В. Алексеевым о дополнительной избыточности и итерационном декодировании с локализацией ошибок.</p>
+        <p><a href="/ru/talks/multilayer-ecc-performance-improvement/">Аннотация →</a></p>
       </article>
       <article class="home__card">
         <p class="home__eyebrow">Октябрь 2023 · МГУ</p>
