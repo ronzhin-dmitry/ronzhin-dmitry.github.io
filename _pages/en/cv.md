@@ -21,7 +21,7 @@ Dissertation: *Linear Automata over Subrings of Rational Numbers*. Specialty: Di
 
 **Group Lead** · [Bureau 1440](https://www.linkedin.com/company/bureau-1440/) · Full-time · Moscow, Russia · August 2025–present
 
-**Senior Engineer** · [Huawei](https://www.linkedin.com/company/3014/) · Full-time · Moscow, Russia · October 2021–present
+**Senior Engineer** · [Huawei](https://www.linkedin.com/company/3014/) · Full-time · Moscow, Russia · October 2021–August 2025
 
 **Consultant** · Huawei · Part-time · Moscow, Russia · June 2018–October 2021
 

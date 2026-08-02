@@ -21,7 +21,7 @@ author_profile: true
 
 **Group Lead** · [Bureau 1440](https://www.linkedin.com/company/bureau-1440/) · Полная занятость · Москва, Россия · август 2025 — настоящее время
 
-**Senior Engineer** · [Huawei](https://www.linkedin.com/company/3014/) · Полная занятость · Москва, Россия · октябрь 2021 — настоящее время
+**Senior Engineer** · [Huawei](https://www.linkedin.com/company/3014/) · Полная занятость · Москва, Россия · октябрь 2021 — август 2025
 
 **Consultant** · Huawei · Частичная занятость · Москва, Россия · июнь 2018 — октябрь 2021
 
