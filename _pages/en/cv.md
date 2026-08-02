@@ -17,6 +17,14 @@ Candidate of Physical and Mathematical Sciences, 2022.
 
 Dissertation: *Linear Automata over Subrings of Rational Numbers*. Specialty: Discrete Mathematics and Mathematical Cybernetics. Supervisor: Anatoly A. Chasovskikh.
 
+## Industry experience
+
+**Group Lead** · [Bureau 1440](https://www.linkedin.com/company/bureau-1440/) · Full-time · Moscow, Russia · August 2025–present
+
+**Senior Engineer** · [Huawei](https://www.linkedin.com/company/3014/) · Full-time · Moscow, Russia · October 2021–present
+
+**Consultant** · Huawei · Part-time · Moscow, Russia · June 2018–October 2021
+
 ## Research interests
 
 Automata theory; discrete mathematics; mathematical cybernetics; graph algorithms; VLSI design; machine learning.
